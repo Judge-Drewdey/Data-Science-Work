@@ -45,4 +45,27 @@ plays_df['down'] = down
 plays_df['distance'] = distance
 plays_df['yards_gained'] = yards_gained
 plays_df['play_type'] = play_type
+def play_type_converter(x):
+    y=0
+    if x == 'Pass Incompletion':
+        y = 'Pass'
+    elif x == 'Pass Reception':
+        y = 'Pass'
+    elif x == 'Rush':
+        y = 'Rush'
+    elif x == 'Punt':
+        y = 'Punt'
+    elif x == 'Pass Touchdown':
+        y = 'Pass'
+    elif x == 'Field Goal Missed':
+        y = 'Kick'
+    elif x == 'Rushing Touchdown':
+        y = 'Rush'
+    elif x == 'Field Goal Good':
+        y = 'Kick'
+    return y
+plays_df['type_conv'] = plays_df['play_type'].apply(play_type_converter)
+plays_df_mask = (plays_df['type_conv'] == 'Rush') | (plays_df['type_conv'] == 'Pass')
+plays_df = plays_df.loc[plays_df_mask]
 plays_df.to_csv('plays.csv')
+

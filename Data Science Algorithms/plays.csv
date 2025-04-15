@@ -1,0 +1,181 @@
+,0,offense_score,defense_score,period,yardline,yards_to_goal,down,distance,yards_gained,play_type,type_conv
+1,2,14,28,4,31,69,2,4,0,Pass Incompletion,Pass
+2,3,14,28,4,25,75,1,10,6,Pass Reception,Pass
+5,6,14,21,4,92,8,3,8,0,Pass Incompletion,Pass
+6,7,14,21,4,99,1,2,1,-7,Rush,Rush
+7,8,14,21,4,99,1,1,1,0,Rush,Rush
+8,9,14,21,4,89,11,2,8,5,Pass Reception,Pass
+9,10,14,21,4,87,13,1,10,2,Rush,Rush
+10,11,14,21,4,60,40,1,10,27,Pass Reception,Pass
+11,12,14,21,4,41,59,1,10,19,Pass Reception,Pass
+12,13,14,21,4,33,67,2,2,8,Rush,Rush
+13,14,14,21,4,25,75,1,10,8,Pass Reception,Pass
+17,18,14,14,4,44,56,3,5,0,Pass Incompletion,Pass
+18,19,14,14,3,46,54,2,3,-2,Pass Reception,Pass
+19,20,14,14,3,39,61,1,10,7,Rush,Rush
+23,24,7,14,3,74,26,2,7,0,Pass Incompletion,Pass
+24,25,7,14,3,71,29,1,10,3,Rush,Rush
+25,26,7,14,3,67,33,3,1,4,Rush,Rush
+26,27,7,14,3,56,44,2,12,11,Pass Reception,Pass
+27,28,7,14,3,58,42,1,10,-2,Rush,Rush
+28,29,7,14,3,54,46,3,3,4,Rush,Rush
+29,30,7,14,3,52,48,2,5,2,Pass Reception,Pass
+30,31,7,14,3,47,53,1,10,5,Pass Reception,Pass
+31,32,7,14,3,33,67,3,10,14,Pass Reception,Pass
+33,34,7,14,3,28,72,2,15,5,Rush,Rush
+34,35,7,14,3,28,72,1,15,0,Pass Incompletion,Pass
+36,37,7,14,3,39,61,3,11,4,Pass Reception,Pass
+37,38,7,14,3,41,59,2,9,-2,Rush,Rush
+38,39,7,14,3,40,60,1,10,1,Rush,Rush
+39,40,7,14,3,30,70,1,10,10,Pass Reception,Pass
+44,45,7,14,2,48,52,1,10,0,Pass Incompletion,Pass
+45,46,7,14,2,25,75,1,10,13,Rush,Rush
+47,48,0,7,2,58,42,1,10,24,Pass Reception,Pass
+48,49,0,7,2,82,18,1,10,0,Pass Incompletion,Pass
+52,53,0,7,2,50,50,4,1,8,Rush,Rush
+53,54,0,7,2,41,59,3,10,9,Rush,Rush
+54,55,0,7,2,41,59,2,10,0,Pass Incompletion,Pass
+55,56,0,7,2,41,59,1,10,0,Rush,Rush
+57,58,0,7,2,31,69,3,5,0,Pass Incompletion,Pass
+58,59,0,7,2,31,69,2,5,0,Pass Incompletion,Pass
+59,60,0,7,2,26,74,1,10,5,Rush,Rush
+60,61,0,7,2,23,77,2,2,3,Rush,Rush
+61,62,0,7,2,15,85,1,10,8,Pass Reception,Pass
+63,64,0,7,2,24,76,3,6,0,Pass Incompletion,Pass
+64,65,0,7,2,20,80,2,10,4,Pass Reception,Pass
+65,66,0,7,2,20,80,1,10,0,Pass Incompletion,Pass
+66,67,0,7,2,16,84,2,3,4,Rush,Rush
+67,68,0,7,2,9,91,1,10,7,Rush,Rush
+70,71,0,7,2,14,86,2,21,10,Pass Reception,Pass
+71,72,0,7,2,24,76,2,11,-10,Pass Reception,Pass
+72,73,0,7,2,25,75,1,10,-1,Rush,Rush
+76,77,0,7,1,58,42,2,10,3,Rush,Rush
+77,78,0,7,1,58,42,1,10,0,Pass Incompletion,Pass
+78,79,0,7,1,36,64,1,10,22,Pass Reception,Pass
+79,80,0,7,1,21,79,2,14,15,Pass Reception,Pass
+81,82,0,0,1,64,36,4,3,0,Pass Incompletion,Pass
+82,83,0,0,1,63,37,3,4,1,Rush,Rush
+83,84,0,0,1,63,37,2,4,0,Pass Incompletion,Pass
+84,85,0,0,1,57,43,1,10,6,Rush,Rush
+85,86,0,0,1,33,67,3,2,24,Pass Reception,Pass
+86,87,0,0,1,29,71,2,6,4,Rush,Rush
+87,88,0,0,1,25,75,1,10,4,Pass Reception,Pass
+91,92,24,31,5,25,25,3,10,2,Pass Reception,Pass
+92,93,24,31,5,25,25,1,10,0,Pass Incompletion,Pass
+93,94,24,31,5,25,25,2,10,0,Rush,Rush
+94,95,24,24,4,24,24,1,10,-1,Rush,Rush
+95,96,24,24,4,51,51,2,4,27,Pass Reception,Pass
+96,97,24,24,4,57,57,1,10,6,Pass Reception,Pass
+97,98,24,24,4,72,72,1,15,15,Pass Reception,Pass
+99,100,24,24,4,80,80,1,10,13,Pass Reception,Pass
+103,104,24,24,4,18,18,3,4,-1,Rush,Rush
+104,105,24,24,4,25,25,2,11,7,Pass Reception,Pass
+107,108,24,24,4,35,35,3,15,5,Rush,Rush
+108,109,24,24,4,35,35,2,15,0,Pass Incompletion,Pass
+109,110,24,24,4,35,35,1,15,0,Pass Incompletion,Pass
+111,112,24,24,4,44,44,2,12,14,Pass Reception,Pass
+112,113,24,24,4,42,42,1,10,-2,Rush,Rush
+113,114,24,24,4,58,58,3,3,16,Pass Reception,Pass
+114,115,24,24,4,63,63,2,8,5,Rush,Rush
+116,117,24,24,4,65,65,1,10,7,Pass Reception,Pass
+119,120,24,16,4,67,67,1,10,6,Rush,Rush
+121,122,17,8,4,42,42,2,2,0,Rush,Rush
+122,123,17,8,4,50,50,1,10,8,Pass Reception,Pass
+123,124,17,8,4,57,57,2,4,7,Rush,Rush
+124,125,17,8,4,63,63,1,10,6,Rush,Rush
+125,126,17,8,3,74,74,2,8,11,Pass Reception,Pass
+126,127,17,8,3,76,76,1,10,2,Rush,Rush
+128,129,24,8,4,5,5,3,5,5,Rushing Touchdown,Rush
+129,130,17,8,4,6,6,2,6,1,Rush,Rush
+130,131,17,8,4,9,9,1,9,3,Rush,Rush
+131,132,17,8,4,38,38,3,10,29,Pass Reception,Pass
+132,133,17,8,4,38,38,2,10,0,Pass Incompletion,Pass
+133,134,17,8,4,38,38,1,10,0,Pass Incompletion,Pass
+134,135,17,8,4,42,42,3,2,4,Rush,Rush
+140,141,17,3,3,83,83,2,18,6,Rush,Rush
+142,143,17,3,2,80,80,1,10,1,Rush,Rush
+145,146,17,3,2,63,63,3,11,6,Rush,Rush
+146,147,17,3,2,63,63,2,11,0,Pass Incompletion,Pass
+147,148,17,3,2,62,62,1,10,-1,Rush,Rush
+149,150,14,3,2,9,9,2,9,5,Rush,Rush
+150,151,14,3,2,8,8,1,8,-1,Rush,Rush
+151,152,14,3,2,13,13,4,2,5,Pass Reception,Pass
+153,154,14,3,2,18,18,3,7,0,Pass Incompletion,Pass
+156,157,14,3,2,4,4,3,4,0,Pass Incompletion,Pass
+157,158,14,3,2,76,76,1,10,3,Rush,Rush
+158,159,14,3,2,73,73,2,7,6,Pass Reception,Pass
+159,160,14,3,2,67,67,3,1,5,Rush,Rush
+160,161,14,3,2,62,62,1,10,2,Pass Reception,Pass
+161,162,14,3,2,45,45,1,10,24,Pass Reception,Pass
+162,163,14,3,2,21,21,1,10,2,Rush,Rush
+163,164,14,3,2,19,19,2,8,1,Rush,Rush
+165,166,14,3,1,76,76,2,16,4,Rush,Rush
+167,168,14,3,1,72,72,3,12,0,Pass Incompletion,Pass
+173,174,0,3,1,77,77,1,10,54,Pass Reception,Pass
+175,176,38,24,4,26,74,1,10,-2,Rush,Rush
+176,177,38,24,4,24,76,2,12,-1,Rush,Rush
+178,179,38,24,4,59,41,3,2,1,Rush,Rush
+184,185,38,24,4,56,44,2,5,3,Rush,Rush
+185,186,38,24,4,51,49,1,10,5,Rush,Rush
+186,187,38,24,4,30,70,3,7,21,Rush,Rush
+187,188,38,24,4,30,70,2,7,0,Rush,Rush
+188,189,38,24,4,27,73,1,10,3,Rush,Rush
+189,190,38,24,4,2,98,1,10,-1,Rush,Rush
+190,191,38,24,4,16,84,1,10,1,Rush,Rush
+191,192,38,24,4,17,83,2,9,0,Rush,Rush
+192,193,38,24,4,17,83,3,9,10,Pass Reception,Pass
+195,196,38,24,4,23,77,2,4,77,Rushing Touchdown,Rush
+196,197,31,24,4,17,83,1,10,6,Pass Reception,Pass
+197,198,31,17,3,64,36,4,2,0,Pass Incompletion,Pass
+198,199,31,17,3,61,39,3,5,3,Rush,Rush
+199,200,31,17,3,59,41,2,7,2,Rush,Rush
+201,202,31,17,3,56,44,1,10,8,Rush,Rush
+203,204,31,17,3,25,75,1,10,16,Pass Reception,Pass
+205,206,31,10,3,22,78,3,10,0,Pass Incompletion,Pass
+206,207,31,10,3,22,78,2,10,0,Pass Incompletion,Pass
+207,208,31,10,3,22,78,1,10,0,Rush,Rush
+209,210,28,10,3,76,24,1,10,19,Rush,Rush
+210,211,28,10,3,60,40,2,14,1,Rush,Rush
+212,213,28,10,3,50,50,1,10,14,Pass Reception,Pass
+213,214,28,10,3,47,53,3,1,3,Rush,Rush
+214,215,28,10,3,47,53,2,1,0,Rush,Rush
+215,216,28,10,3,38,62,1,10,9,Pass Reception,Pass
+216,217,28,10,3,32,68,3,3,6,Pass Reception,Pass
+217,218,28,10,3,25,75,2,10,7,Rush,Rush
+218,219,28,10,3,25,75,1,10,0,Pass Incompletion,Pass
+221,222,28,10,3,98,2,3,2,-2,Rush,Rush
+222,223,28,10,3,98,2,2,2,0,Rush,Rush
+223,224,28,10,3,95,5,1,5,3,Rush,Rush
+225,226,21,10,2,74,26,1,10,7,Pass Reception,Pass
+228,229,21,10,2,35,65,1,10,0,Pass Incompletion,Pass
+229,230,21,10,2,35,65,2,10,21,Pass Reception,Pass
+230,231,21,10,2,56,44,1,10,7,Rush,Rush
+231,232,21,10,2,63,37,2,3,0,Pass Incompletion,Pass
+232,233,21,10,2,63,37,3,3,11,Rush,Rush
+234,235,21,7,2,42,58,1,10,-6,Pass Reception,Pass
+235,236,21,7,2,83,17,4,1,-1,Rush,Rush
+236,237,21,7,2,83,17,3,1,0,Rush,Rush
+237,238,21,7,2,82,18,2,2,1,Rush,Rush
+238,239,21,7,2,74,26,1,10,8,Rush,Rush
+240,241,21,7,2,84,16,1,10,16,Rushing Touchdown,Rush
+241,242,14,7,2,78,22,2,4,6,Rush,Rush
+242,243,14,7,2,72,28,1,10,6,Rush,Rush
+243,244,14,7,2,29,71,1,10,43,Pass Reception,Pass
+244,245,14,7,2,27,73,2,1,2,Rush,Rush
+245,246,14,7,2,18,82,1,10,9,Pass Reception,Pass
+248,249,7,7,2,48,52,1,10,7,Rush,Rush
+249,250,7,7,2,36,64,2,9,12,Rush,Rush
+250,251,7,7,2,35,65,1,10,1,Rush,Rush
+251,252,7,7,2,55,45,2,3,7,Rush,Rush
+252,253,14,7,2,62,38,1,10,38,Rushing Touchdown,Rush
+254,255,7,7,1,97,3,1,3,3,Rushing Touchdown,Rush
+255,256,0,7,1,93,7,4,1,4,Rush,Rush
+256,257,0,7,1,92,8,3,2,1,Rush,Rush
+257,258,0,7,1,86,14,2,8,6,Pass Reception,Pass
+258,259,0,7,1,84,16,1,10,2,Rush,Rush
+259,260,0,7,1,62,38,3,10,22,Rush,Rush
+260,261,0,7,1,52,48,2,20,10,Pass Reception,Pass
+262,263,0,7,1,49,51,1,10,13,Pass Reception,Pass
+263,264,0,7,1,36,64,1,10,13,Pass Reception,Pass
+264,265,0,7,1,30,70,2,5,6,Pass Reception,Pass
+265,266,0,7,1,25,75,1,10,5,Rush,Rush
